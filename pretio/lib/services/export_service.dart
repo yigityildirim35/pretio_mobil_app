@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:share_plus/share_plus.dart';
+import 'package:cross_file/cross_file.dart';
 import 'package:intl/intl.dart';
 
 // PDF Packages
@@ -74,7 +75,7 @@ class ExportService {
     final file = File(path);
     await file.writeAsBytes(bytes, flush: true);
 
-    await Share.shareXFiles([XFile(path)], text: 'Pretio Excel Report');
+    await SharePlus.instance.share(ShareParams(files: [XFile(path)], text: 'Pretio Excel Report'));
   }
 
   static Future<void> exportToPdf(
@@ -277,6 +278,6 @@ class ExportService {
     final file = File(path);
     await file.writeAsBytes(bytes, flush: true);
 
-    await Share.shareXFiles([XFile(path)], text: 'Pretio PDF Report');
+    await SharePlus.instance.share(ShareParams(files: [XFile(path)], text: 'Pretio PDF Report'));
   }
 }

@@ -13,7 +13,7 @@ final apiClientProvider = Provider<ApiClient>((ref) {
 });
 
 final networkInfoProvider = Provider<NetworkInfoImpl>((ref) {
-  return NetworkInfoImpl(Connectivity());
+  return NetworkInfoImpl();
 });
 
 final brandRemoteDataSourceProvider = Provider<BrandRemoteDataSource>((ref) {
