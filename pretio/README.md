@@ -260,7 +260,6 @@ Uygulama;
 - ✅ Time Cost (Zaman Maliyeti) Hesaplama
 - ✅ Akıllı Hedef Takibi
 - ✅ Günlük Harcama Limiti
-- ✅ Günlük Harcama Gücü
 - ✅ Tahmini Aylık Birikim
 - ✅ Budget Ring
 - ✅ Harcama Analizi
