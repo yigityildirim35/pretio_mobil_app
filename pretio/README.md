@@ -293,19 +293,8 @@ Pretio, **Flutter** kullanılarak geliştirilen modern bir kişisel finans yöne
 <img width="392" height="813" alt="image" src="https://github.com/user-attachments/assets/6b7a438c-6915-4d10-a40c-ac760d111a37" />
 <img width="406" height="827" alt="image" src="https://github.com/user-attachments/assets/c8a8226e-f63d-40bd-b551-da4115b2e7f9" />
 <img width="397" height="848" alt="image" src="https://github.com/user-attachments/assets/8eb277a5-a3fd-40ad-822c-9e3e8be4f201" />
-![Uploading image.png…]()
 
-- 🏠 Ana Sayfa (Dashboard)
-- 🎯 Finansal Hedef Yönetimi
-- 💰 Harcama Takibi
-- 📊 Harcama Analizi
-- 📅 Takvim Görünümü
-- 💳 Abonelik Yönetimi
-- ⏳ Zaman Maliyeti Hesaplayıcısı
-- 😊 Duygu & İhtiyaç Analizi
-- 🏆 Rozet Galerisi
-- 👤 Profil ve İstatistikler
-- 🎨 Tema ve Kişiselleştirme
-- ⚙️ Ayarlar
+
+
 
 ---
