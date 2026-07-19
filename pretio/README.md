@@ -3,35 +3,7 @@
 Pretio, harcamalarınızın yalnızca parasal tutarını değil, **"Zaman Maliyeti (Time Cost)"** yaklaşımını temel alarak size gerçekte kaç saat veya dakika çalışmaya mal olduğunu hesaplayan modern ve kullanıcı odaklı bir kişisel finans yönetimi uygulamasıdır.
 
 **Slogan:** *"Zamanının gerçek değerini hesapla."*
-
----
-
-# 📱 Ekran Görüntüleri
-
-> Uygulamadan bazı ekranlar
-> <img width="387" height="838" alt="image" src="https://github.com/user-attachments/assets/020d3f44-1854-43ba-8bc1-9ea76b6d0f04" />
-<img width="402" height="821" alt="image" src="https://github.com/user-attachments/assets/f140210d-592f-411c-91a9-5ad478e54bbe" />
-<img width="392" height="837" alt="image" src="https://github.com/user-attachments/assets/34774fb6-3cd5-4aff-a608-c4315ef25844" />
-<img width="372" height="822" alt="image" src="https://github.com/user-attachments/assets/56cf6fd9-7322-4af2-a8fd-b41f6430c4d0" />
-<img width="383" height="801" alt="image" src="https://github.com/user-attachments/assets/d3849628-c634-45e9-8b30-4b382d282bb5" />
-<img width="400" height="827" alt="image" src="https://github.com/user-attachments/assets/269948b4-3b10-42ce-8a74-7213e1803e21" />
-<img width="405" height="822" alt="image" src="https://github.com/user-attachments/assets/2fd00a6f-a05d-464c-adc2-362cdd4eede7" />
-<img width="392" height="813" alt="image" src="https://github.com/user-attachments/assets/6b7a438c-6915-4d10-a40c-ac760d111a37" />
-<img width="406" height="827" alt="image" src="https://github.com/user-attachments/assets/c8a8226e-f63d-40bd-b551-da4115b2e7f9" />
-<img width="397" height="848" alt="image" src="https://github.com/user-attachments/assets/8eb277a5-a3fd-40ad-822c-9e3e8be4f201" />
-- 🏠 Ana Sayfa (Dashboard)
-- 🎯 Finansal Hedef Yönetimi
-- 💰 Harcama Takibi
-- 📊 Harcama Analizi
-- 📅 Takvim Görünümü
-- 💳 Abonelik Yönetimi
-- ⏳ Zaman Maliyeti Hesaplayıcısı
-- 😊 Duygu & İhtiyaç Analizi
-- 🏆 Rozet Galerisi
-- 👤 Profil ve İstatistikler
-- 🎨 Tema ve Kişiselleştirme
-- ⚙️ Ayarlar
-
+> 📱 Uygulamanın ekran görüntülerini README'nin sonunda inceleyebilirsiniz.
 ---
 
 # 🚀 Öne Çıkan Özellikler
@@ -307,3 +279,33 @@ Uygulama;
 # 👨‍💻 Geliştirici
 
 Pretio, **Flutter** kullanılarak geliştirilen modern bir kişisel finans yönetimi uygulamasıdır. Proje; kullanıcı deneyimi (UX/UI), finansal farkındalık, oyunlaştırma (Gamification) ve **Time Cost** yaklaşımını bir araya getirerek kullanıcıların harcamalarını daha bilinçli yönetmelerini amaçlamaktadır.
+
+
+# 📱 Ekran Görüntüleri
+
+<img width="387" height="838" alt="image" src="https://github.com/user-attachments/assets/020d3f44-1854-43ba-8bc1-9ea76b6d0f04" />
+<img width="402" height="821" alt="image" src="https://github.com/user-attachments/assets/f140210d-592f-411c-91a9-5ad478e54bbe" />
+<img width="392" height="837" alt="image" src="https://github.com/user-attachments/assets/34774fb6-3cd5-4aff-a608-c4315ef25844" />
+<img width="372" height="822" alt="image" src="https://github.com/user-attachments/assets/56cf6fd9-7322-4af2-a8fd-b41f6430c4d0" />
+<img width="383" height="801" alt="image" src="https://github.com/user-attachments/assets/d3849628-c634-45e9-8b30-4b382d282bb5" />
+<img width="400" height="827" alt="image" src="https://github.com/user-attachments/assets/269948b4-3b10-42ce-8a74-7213e1803e21" />
+<img width="405" height="822" alt="image" src="https://github.com/user-attachments/assets/2fd00a6f-a05d-464c-adc2-362cdd4eede7" />
+<img width="392" height="813" alt="image" src="https://github.com/user-attachments/assets/6b7a438c-6915-4d10-a40c-ac760d111a37" />
+<img width="406" height="827" alt="image" src="https://github.com/user-attachments/assets/c8a8226e-f63d-40bd-b551-da4115b2e7f9" />
+<img width="397" height="848" alt="image" src="https://github.com/user-attachments/assets/8eb277a5-a3fd-40ad-822c-9e3e8be4f201" />
+![Uploading image.png…]()
+
+- 🏠 Ana Sayfa (Dashboard)
+- 🎯 Finansal Hedef Yönetimi
+- 💰 Harcama Takibi
+- 📊 Harcama Analizi
+- 📅 Takvim Görünümü
+- 💳 Abonelik Yönetimi
+- ⏳ Zaman Maliyeti Hesaplayıcısı
+- 😊 Duygu & İhtiyaç Analizi
+- 🏆 Rozet Galerisi
+- 👤 Profil ve İstatistikler
+- 🎨 Tema ve Kişiselleştirme
+- ⚙️ Ayarlar
+
+---
