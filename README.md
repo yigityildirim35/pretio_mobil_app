@@ -274,8 +274,8 @@ Uygulama;
 
 ---
 
-# 👨‍💻 Geliştiriciler: @yigityildirim35, @gizembg1m, 
-
+# 👨‍💻 Geliştiriciler: 
+@yigityildirim35, @gizembg1m, 
 Pretio, **Flutter** kullanılarak geliştirilen modern bir kişisel finans yönetimi uygulamasıdır. Proje; kullanıcı deneyimi (UX/UI), finansal farkındalık, oyunlaştırma (Gamification) ve **Time Cost** yaklaşımını bir araya getirerek kullanıcıların harcamalarını daha bilinçli yönetmelerini amaçlamaktadır.
 
 
