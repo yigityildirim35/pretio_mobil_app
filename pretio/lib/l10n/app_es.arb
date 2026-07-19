@@ -1,0 +1,624 @@
+{
+  "@@locale": "es",
+  "appTitle": "Calculadora de Costo de Tiempo",
+  "balance": "Saldo",
+  "dashboard": "Panel",
+  "calendar": "Calendario",
+  "reports": "Informes",
+  "settings": "Ajustes",
+  "theme": "Tema",
+  "language": "Idioma",
+  "selectLanguage": "Seleccionar Idioma",
+  "today": "Hoy",
+  "yesterday": "Ayer",
+  "analytics": "Análisis",
+  "coach": "Entrenador",
+  "shadow": "Sombra",
+  "time": "Tiempo",
+  "profile": "Perfil",
+  "setDailyGoal": "Establecer Meta Diaria",
+  "addQuickAmount": "Añadir Cantidad Rápida",
+  "needs": "Necesidades",
+  "wants": "Deseos",
+  "total": "Total",
+  "currentStreak": "Racha Actual",
+  "longestStreak": "Racha más larga",
+  "cancel": "Cancelar",
+  "save": "Guardar",
+  "add": "Añadir",
+  "delete": "Eliminar",
+  "editAmount": "Editar Cantidad {amount}",
+  "@editAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "double",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "deleteAmountConfirmation": "¿Quieres eliminar esta cantidad rápida?",
+  "manage": "Gestionar",
+  "done": "Hecho",
+  "addTransaction": "Añadir transacción",
+  "whatDidYouBuy": "¿Qué compraste?",
+  "howDoYouFeel": "¿Cómo te sientes al respecto?",
+  "isThisNeedOrWant": "¿Es esto una Necesidad, Deseo o Obligación?",
+  "saveTransaction": "Guardar Transacción",
+  "recentActivity": "Actividad Reciente",
+  "viewAll": "Ver Todo",
+  "noRecentActivity": "No hay actividad reciente",
+  "newCategory": "Nueva Categoría",
+  "categoryName": "Nombre de la Categoría",
+  "selectIcon": "Seleccionar Icono",
+  "selectColor": "Seleccionar Color",
+  "create": "Crear",
+  "shadowBudget": "Presupuesto en Sombra",
+  "item": "Artículo",
+  "price": "Precio",
+  "howDidItFeel": "¿Cómo se sintió no comprarlo?",
+  "proud": "Orgulloso",
+  "relieved": "Aliviado",
+  "sad": "Triste",
+  "iDidntBuyIt": "¡No lo compré!",
+  "totalSaved": "Total Ahorrado: {amount}",
+  "@totalSaved": {
+    "placeholders": {
+      "amount": {
+        "type": "double",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "examples": "EJEMPLOS",
+  "memberSince": "Miembro desde {year}",
+  "@memberSince": {
+    "placeholders": {
+      "year": {
+        "type": "int"
+      }
+    }
+  },
+  "financialHealth": "Salud Financiera",
+  "excellent": "Excelente",
+  "personalInformation": "Información Personal",
+  "annualSalary": "Salario Anual",
+  "weeklyHours": "Horas Semanales",
+  "appPreferences": "Preferencias de la aplicación",
+  "notifications": "Notificaciones",
+  "darkMode": "Modo Oscuro",
+  "security": "Seguridad",
+  "faceIdLogin": "Inicio de Sesión FaceID",
+  "changePassword": "Cambiar Contraseña",
+  "timeValue": "Valor del Tiempo",
+  "yourProfileShared": "TU PERFIL (Compartido)",
+  "monthlySalary": "Salario Mensual",
+  "recalculateRate": "Recalcular Tarifa",
+  "yourTimeIsWorth": "Tu tiempo vale",
+  "tlPhr": "/hr",
+  "howMuchLife": "¿CUÁNTA VIDA CUESTA?",
+  "trends": "Tendencias",
+  "noTransactionsYet": "Aún no hay transacciones.",
+  "good": "Bien",
+  "okay": "Regular",
+  "regret": "Arrepentimiento",
+  "overBudget": "Presupuesto excedido",
+  "onTrack": "En Camino",
+  "monthlyAvg": "PROM. MENSUAL",
+  "day": "Día",
+  "perDay": "/ día",
+  "days": "{count} Días",
+  "@days": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "financialCoach": "Coach Financiero",
+  "moodVsMoney": "Estado de ánimo-Dinero",
+  "needVsWant": "Necesidad-Deseo",
+  "deleteCategoryTitle": "¿Eliminar \"{category}\"?",
+  "@deleteCategoryTitle": {
+    "placeholders": {
+      "category": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteCategoryContent": "Esto solo eliminará la categoría de tu lista. Las transacciones existentes mantendrán este nombre de categoría.",
+  "remaining": "Restante",
+  "goal": "META: {amount}",
+  "@goal": {
+    "placeholders": {
+      "amount": {
+        "type": "double",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "transactionHistory": "Historial de transacciones",
+  "currency": "Moneda",
+  "editTransactionTitle": "Editar Transacción",
+  "titleLabel": "Título",
+  "amountLabel": "Cantidad",
+  "favorite": "Favorito",
+  "need": "Necesidad",
+  "want": "Deseo",
+  "necessity": "Obligación",
+  "spendingBalance": "Saldo de Gastos",
+  "emotionalImpact": "Impacto Emocional",
+  "budgetProgress": "Progreso Presupuesto",
+  "weeklyLimit": "Límite Semanal",
+  "monthlyLimit": "Límite Mensual",
+  "underDailyGoal": "por debajo meta diaria",
+  "overDailyGoal": "por encima meta",
+  "fancyLatte": "Café con Leche Elegante",
+  "runningShoes": "Zapatos de correr",
+  "flagshipPhone": "Teléfono insignia",
+  "sedanCar": "Coche Sedán",
+  "catFood": "Comida",
+  "catTransport": "Transporte",
+  "catShopping": "Compras",
+  "catFun": "Diversión",
+  "catBills": "Facturas",
+  "catOther": "Otro",
+  "phone": "Teléfono",
+  "undoTransactionQuestion": "¿Quieres deshacer esta transacción?",
+  "yes": "Sí",
+  "no": "No",
+  "addNote": "Añadir Nota",
+  "enterNote": "Escribe la nota aquí...",
+  "budgetPlanner": "Planificador",
+  "pleaseEnterItemAndPrice": "Por favor, introduce el artículo y el precio",
+  "victorySaved": "¡Victoria Guardada! 🎉",
+  "editGoal": "Editar Meta",
+  "goalName": "Nombre de la Meta",
+  "goalAmount": "Cantidad de la Meta",
+  "rateUpdated": "¡Tarifa Actualizada! 🚀",
+  "coffeeShoesEta": "Café, Zapatos, etc.",
+  "howMuchWasIt": "¿Cuánto fue?",
+  "happy": "Feliz",
+  "neutral": "Neutral",
+  "reclaimed": "RECUPERADO",
+  "workHours": "Horas de Trabajo",
+  "mountainOfSavings": "Montaña de Ahorros",
+  "levelX": "Nivel {level}",
+  "@levelX": {
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "starting": "Inicio",
+  "leftToPeak": "{percent}% hasta la cima",
+  "@leftToPeak": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "recentVictories": "Victorias Recientes",
+  "noVictoriesYet": "Aún no se han registrado victorias.",
+  "savedHours": "{hours} horas recuperadas",
+  "@savedHours": {
+    "placeholders": {
+      "hours": {
+        "type": "String"
+      }
+    }
+  },
+  "edit": "Editar",
+  "editVictory": "Editar Victoria",
+  "minShort": "m",
+  "hrShort": "h",
+  "workDay": "día de trabajo",
+  "monthShort": "mes",
+  "workShort": "trabajo",
+  "categories": "Categorías",
+  "weekly": "Semanalmente",
+  "monthly": "Mensual",
+  "yearly": "Anual",
+  "goals": "Metas",
+  "noSpendToast": "¡Gastos registrados hoy!",
+  "noSpendTitle": "Sin gastos",
+  "noSpendNote": "Hoy no se han hecho gastos",
+  "deletedData": "Datos eliminados",
+  "settingsAndPreferences": "AJUSTES Y PREFERENCIAS",
+  "account": "Cuenta",
+  "profileNameLabel": "NOMBRE DE PERFIL",
+  "avatarLabel": "AVATAR",
+  "personalizeCharacter": "Personaliza tu personaje",
+  "changeAvatar": "CAMBIAR AVATAR",
+  "balanceAndFinance": "Saldo y Finanzas",
+  "balanceInfoLabel": "INFO DE SALDO",
+  "currentBalance": "ACTUAL: {amount}",
+  "@currentBalance": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyLabel": "MONEDA",
+  "appearance": "Apariencia",
+  "languageSelectionLabel": "SELECCIÓN DE IDIOMA",
+  "themesLabel": "TEMAS",
+  "themeLight": "Claro",
+  "themeForest": "Verde Bosque",
+  "themeCottonCandy": "Algodón de Azúcar",
+  "themeSunset": "Atardecer",
+  "themeProfileDark": "Azul Noche",
+  "themeAmoled": "Oscuro",
+  "preferences": "Preferencias",
+  "hideSpentMoney": "OCULTAR DINERO GASTADO",
+  "privacyMode": "Modo privacidad",
+  "needWantModule": "MÓDULO NECESIDAD - DESEO",
+  "showWhenAddingNew": "Mostrar al agregar nuevo",
+  "emotionModule": "MÓDULO EMOCIÓN",
+  "view3D": "VISTA 3D",
+  "addEmbossEffect": "Agregar efecto relieve",
+  "reset": "Restablecer",
+  "deleteAll": "BORRAR TODO",
+  "deletePermanently": "Borrar todos los datos",
+  "buttonDelete": "BORRAR",
+  "about": "Acerca de",
+  "appPurpose": "PROPÓSITO DE LA APP",
+  "whyAreWeHere": "¿Por qué estamos aquí?",
+  "aboutApp": "ACERCA DE LA APP",
+  "versionAndDetails": "Versión y detalles",
+  "creators": "CREADORES",
+  "whoDevelopedIt": "¿Quién lo desarrolló?",
+  "selectAvatar": "Seleccionar Avatar",
+  "editPhoto": "Editar Foto",
+  "statistics": "Estadísticas",
+  "highestStreak": "MEJOR RACHA",
+  "totalSpending": "GASTO TOTAL",
+  "currentStreakLabel": "RACHA ACTUAL",
+  "financialIq": "CI Financiero",
+  "percentNeed": "{percent}% Neces.",
+  "@percentNeed": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "percentWant": "{percent}% Deseo",
+  "@percentWant": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "percentObligation": "{percent}% Oblig.",
+  "@percentObligation": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "subscriptions": "Suscripciones",
+  "seeAll": "VER TODO",
+  "noSubscriptionsYet": "Aún no tienes suscripciones.",
+  "badgesAndAchievements": "Insignias y Logros",
+  "accountOperations": "Operaciones",
+  "addIncome": "Añadir Ingresos",
+  "unexpectedMoney": "¿Dinero inesperado?",
+  "enterAmount": "Ingrese la cantidad",
+  "buttonAdd": "Agregar",
+  "editTotalBalance": "Editar Saldo Total",
+  "resetInitialBalance": "Restablecer saldo inicial",
+  "updateBalance": "Actualizar Saldo",
+  "buttonUpdate": "Actualizar",
+  "areYouSure": "¿Estás seguro?",
+  "deleteWarning": "Todos tus gastos y configuraciones se borrarán permanentemente.",
+  "yesContinue": "Sí, Continuar",
+  "finalConfirmation": "Confirmación Final",
+  "pressToClearData": "Presiona para borrar datos.",
+  "secondsRemaining": "{seconds} segundos...",
+  "@secondsRemaining": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "deleteNow": "BORRAR AHORA",
+  "waiting": "Esperando...",
+  "insightsTitle": "Perspectivas Predictivas",
+  "goalUnreachable": "Tu tasa de gasto actual impide que ahorres. ¡La meta es inalcanzable!",
+  "goalReachableDesc": "A tu tasa de gasto actual, alcanzarás tu meta en aproximadamente {days} días.",
+  "@goalReachableDesc": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "budgetEmptyWarning": "Advertencia: ¡A esta tasa de gasto, tu presupuesto se agotará en {days} días!",
+  "@budgetEmptyWarning": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "budgetSafe": "Tu presupuesto está a salvo con la tasa de gasto actual.",
+  "dailyAverageSavings": "Ahorro Promedio Diario",
+  "accountActions": "Acciones de Cuenta",
+  "addIncomeDesc": "¿Recibiste dinero inesperado?",
+  "noNoteAttached": "Sin nota",
+  "categoryDistribution": "Distribución por Categoría",
+  "balanceSummary": "Resumen de Saldo",
+  "remainingBalanceText": "Saldo Restante",
+  "categoryBudgetShare": "Parte del Presupuesto: {percentage}%",
+  "@categoryBudgetShare": {
+    "placeholders": {
+      "percentage": {
+        "type": "String"
+      }
+    }
+  },
+  "spentAmount": "Gastado",
+  "lastMonthPlus": "Mes pasado: +{diff}%",
+  "@lastMonthPlus": {
+    "placeholders": {
+      "diff": {
+        "type": "String"
+      }
+    }
+  },
+  "lastMonthMinus": "Mes pasado: {diff}%",
+  "@lastMonthMinus": {
+    "placeholders": {
+      "diff": {
+        "type": "String"
+      }
+    }
+  },
+  "sameAsLastMonth": "Igual que el mes pasado",
+  "newData": "Nuevos datos",
+  "obligationWarning": "Este es un gasto obligatorio. No afecta su límite diario, solo se deduce de su saldo principal.",
+  "tapForDetails": "Toque para ver detalles",
+  "transactionCount": "{count} Transacciones",
+  "@transactionCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "noRecordsToday": "No hay registros para este día.",
+  "goalCurrentGoal": "Objetivo Actual",
+  "goalTotalSavings": "Ahorros Totales (En Bóveda)",
+  "goalThisMonthTask": "Tarea de Este Mes (Protegida)",
+  "goalRemainingNet": "Objetivo Restante",
+  "goalIfProtected": "Si se Protege Este Mes",
+  "goalUpdateBtn": "Actualizar",
+  "goalAddBtn": "Añadir",
+  "goalBalanceAction": "Acción de Saldo",
+  "goalWithdrawMoney": "Retirar",
+  "goalEnterAmountHint": "Introduzca la cantidad (ej. 500)",
+  "goalWithdrawBtn": "Retirar",
+  "goalSpendingPower": "Poder Adquisitivo",
+  "goalDailyLimit": "Límite Diario",
+  "goalOnTarget": "En Objetivo Diario",
+  "goalLimitExceeded": "Límite Superado",
+  "goalEditPlan": "Editar Plan Financiero",
+  "goalDistributable": "Distribuible",
+  "goalMonthlyTarget": "Objetivo Mensual",
+  "goalDaily": "Diario",
+  "goalResetTitle": "¿Restablecer Objetivo?",
+  "goalResetDesc": "¿Estás seguro de que quieres restablecer tu objetivo actual y todo lo que has ahorrado? Esta acción no se puede deshacer.",
+  "goalCancelBtn": "Cancelar",
+  "goalResetSuccessMsg": "Objetivo y ahorros restablecidos.",
+  "goalResetBtn": "Restablecer",
+  "goalUpdateGoalTitle": "Actualizar Objetivo",
+  "goalNameInputLabel": "Nombre del Artículo",
+  "goalTargetPrice": "Precio Objetivo",
+  "goalSaveBtn": "Guardar",
+  "goalUpdateGoalsTitle": "Actualizar Objetivos",
+  "goalMonthlySavingsTarget": "Objetivo de Ahorro Mensual",
+  "shadowItemHint": "p. ej. Café, auriculares...",
+  "badgeKutsalSeriTitle": "La Racha Sagrada",
+  "badgeKutsalSeriDesc": "Número de días consecutivos sin gastar.",
+  "badgeCuzdanBekcisiTitle": "Guardián de Billetera",
+  "badgeCuzdanBekcisiDesc": "Número total de días sin ningún gasto.",
+  "badgeDuyguDedektifiTitle": "Detective Emocional",
+  "badgeDuyguDedektifiDesc": "Número total de transacciones registradas con una emoción.",
+  "badgeDuzenUzmaniTitle": "Experto en Equilibrio",
+  "badgeDuzenUzmaniDesc": "Número total de transacciones etiquetadas como necesidad, deseo u obligación.",
+  "badgeVeriKurduTitle": "Devorador de Datos",
+  "badgeVeriKurduDesc": "Número total de transacciones de gastos registradas.",
+  "badgeVazgecisUstasiTitle": "Maestro del Renunciamiento",
+  "badgeVazgecisUstasiDesc": "Número total de artículos omitidos y enviados al presupuesto sombra.",
+  "badgeGallery": "Galería de Insignias",
+  "totalProgress": "Progreso Total",
+  "totalLevels": "Niveles Totales",
+  "maxShort": "MÁX",
+  "levelShort": "NIV",
+  "streakBadge": "🔥 Insignia de Racha",
+  "cumulativeBadge": "📈 Insignia Acumulativa",
+  "maxLevelReached": "¡NIVEL MÁXIMO ALCANZADO!",
+  "subscriptionManagement": "Gestión de Suscripciones",
+  "monthlyTotalLabel": "Total Mensual",
+  "expenseDistribution": "Distribución de Gastos",
+  "detailsButton": "Detalles",
+  "mySubscriptions": "Mis Suscripciones",
+  "onDate": "el {date}",
+  "@onDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "addNewSubscription": "Añadir Nueva Suscripción",
+  "noSubscriptionsAdded": "Aún no has añadido ninguna suscripción.",
+  "nextLevelTarget": "Objetivo para el siguiente nivel:\nNecesitas hacer {count} más.",
+  "@nextLevelTarget": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "progressLabel": "{current} / {total} progreso",
+  "@progressLabel": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "monthlyReport": "Informe Mensual",
+  "totalSpent": "TOTAL GASTADO",
+  "comparedToLastMonth": "%{percentage} {trend} que el mes pasado",
+  "@comparedToLastMonth": {
+    "placeholders": {
+      "percentage": {
+        "type": "String"
+      },
+      "trend": {
+        "type": "String"
+      }
+    }
+  },
+  "trendLess": "menos",
+  "trendMore": "más",
+  "subscriptionDistribution": "Distribución de Suscripciones",
+  "upcomingPayments": "Próximos Pagos",
+  "noUpcomingPayments": "No hay próximos pagos.",
+  "nextPaymentInDays": "PRÓXIMO • FALTAN {days} DÍAS",
+  "@nextPaymentInDays": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "unknown": "Desconocido",
+  "daysRemainingText": "Faltan {days} días",
+  "@daysRemainingText": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "editSubscription": "Editar Suscripción",
+  "newSubscription": "Nueva Suscripción",
+  "serviceIconLabel": "ICONO DEL SERVICIO",
+  "serviceNameLabel": "NOMBRE DEL SERVICIO",
+  "serviceNameHint": "Ej: Netflix, Spotify...",
+  "monthlyFeeLabel": "TARIFA MENSUAL",
+  "paymentCycleLabel": "CICLO DE PAGO",
+  "wantNeedLabel": "DESEO / NECESIDAD",
+  "needItem": "Necesidad",
+  "wantItem": "Deseo",
+  "necessityItem": "Obligación",
+  "moodLabel": "ESTADO DE ÁNIMO",
+  "happyItem": "Feliz",
+  "neutralItem": "Neutral",
+  "regretItem": "Arrepentido",
+  "nextPaymentDateLabel": "PRÓXIMA FECHA DE PAGO",
+  "dateHint": "dd.mm.aaaa",
+  "unnamed": "Sin nombre",
+  "notSpecified": "No especificado",
+  "saveChanges": "GUARDAR CAMBIOS",
+  "saveSubscription": "GUARDAR SUSCRIPCIÓN",
+  "deleteSubscription": "ELIMINAR SUSCRIPCIÓN",
+  "editMyIcon": "Editar Mi Icono",
+  "customIcon": "Icono Personalizado",
+  "selectIconTitle": "Seleccionar Icono",
+  "uploadIcon": "SUBIR ICONO",
+  "popularCategory": "Popular",
+  "financeCategory": "Finanzas",
+  "educationCategory": "Educación",
+  "entertainmentCategory": "Entretenimiento",
+  "bankWord": "Banco",
+  "insuranceWord": "Seguro",
+  "creditCardWord": "Tarjeta de Crédito",
+  "creditWord": "Crédito",
+  "schoolWord": "Escuela",
+  "bookMagazineWord": "Libro/Revista",
+  "personalDevWord": "Desarrollo Personal",
+  "courseWord": "Curso",
+  "gameWord": "Juego",
+  "cinemaSeriesWord": "Cine/Serie",
+  "musicWord": "Música",
+  "eventActivityWord": "Evento",
+  "totalUppercase": "TOTAL",
+  "spendingsTab": "Gastos",
+  "otherCategory": "Otros",
+  "autoRenewal": "Renovación Automática",
+  "appPurposeHeroTitle": "Gasto Consciente,\nFuturo Libre.",
+  "appPurposeHeroDesc": "Pretio transforma tus gastos de simples números en su verdadero impacto en tu vida, ayudándote a reemplazar impulsos momentáneos con decisiones conscientes que te acercan a tus sueños.",
+  "feature1Title": "Registro Rápido y Práctico",
+  "feature1Desc": "Registra tus gastos al instante y sin esfuerzo. En lugar de formularios tediosos, añade tus transacciones en segundos, convirtiendo el control financiero en un hábito diario agradable.",
+  "feature2Title": "Brújula Financiera Emocional",
+  "feature2Desc": "Descubre la psicología detrás de cada gasto. ¿Es una necesidad real o un impulso repentino? Mapea tus hábitos de consumo y destina tu dinero solo a las cosas que te aportan valor.",
+  "feature3Title": "Enfócate en Tus Sueños",
+  "feature3Desc": "Planifica no solo para hoy, sino para el futuro. Mira claramente qué tan cerca estás de tu objetivo y dirige tus ahorros directamente hacia él.",
+  "feature4Title": "Análisis Detallado y Seguimiento de Hábitos",
+  "feature4Desc": "Mira transparentemente a dónde va tu dinero. Descubre tus hábitos de consumo examinando tus tendencias de gasto y distribución emocional en detalle con gráficos elegantes.",
+  "feature5Title": "Totalmente Personalizable",
+  "feature5Desc": "Adapta tu asistente financiero a tu estilo de vida. Crea tus propias categorías, establece montos de ingreso rápido y celebra tus logros con insignias únicas.",
+  "aboutHeroDesc": "Pretio no es solo un rastreador de presupuesto ordinario; es una filosofía de vida personal que te devuelve el control sobre tu tiempo, dinero y emociones. En medio del frenesí del consumismo, fue diseñado para recordarte tu propia fuerza de voluntad e iluminar el camino hacia tus sueños.",
+  "aboutSection1Title": "Significado del Nombre",
+  "aboutSection1Desc": "Pretio deriva sus raíces de la palabra latina \"pretium\", que significa \"valor\" y \"precio\". Todo lo que compramos en la vida no solo tiene un costo financiero, sino un verdadero precio pagado con nuestro tiempo y emociones. Pretio existe para mostrarte este verdadero valor.",
+  "aboutSection2Title": "Su Simplicidad",
+  "aboutSection2Desc": "No te abruma con tablas financieras complejas, menús confusos y gráficos agotadores. Con su diseño minimalista y agradable a la vista, convierte el seguimiento financiero de una fuente de estrés en una rutina diaria pacífica.",
+  "aboutSection3Title": "Su Conciencia",
+  "aboutSection3Desc": "Te muestra no solo lo que gastas, sino por qué lo gastas. Iluminando tu psicología de consumo, te ayuda a comprender si el artículo que compraste es una necesidad genuina o un capricho momentáneo.",
+  "aboutSection4Title": "Su Practicidad",
+  "aboutSection4Desc": "Sigue perfectamente el ritmo de la vida diaria. Puedes registrar gastos en segundos sin llenar formularios largos y aburridos, actualizar tu presupuesto con un solo toque y resumir tu estado financiero de un vistazo.",
+  "aboutSection5Title": "Su Personalización",
+  "aboutSection5Desc": "El estilo de vida y viaje financiero de cada uno es único. Puedes adaptar completamente Pretio a tus propios hábitos creando tus propias categorías, estableciendo objetivos personalizados y ajustando tus montos de ingreso rápido.",
+  "aboutFooterNote": "Esta aplicación fue creada por un grupo independiente de desarrolladores para ayudarte a proteger tu fuerza de voluntad frente al consumismo desenfrenado.",
+  "developersTitle": "Nuestros Desarrolladores",
+  "averageSoFar": "Promedio hasta ahora",
+  "all": "Todo",
+  "favorites": "Favoritos",
+  "currentNetBalance": "Saldo Neto Actual",
+  "makeTransaction": "Hacer Transacción",
+  "insightProjectionGood": "A este ritmo, ahorrarás un {percent}% más que tu objetivo al final del mes.",
+  "@insightProjectionGood": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "insightProjectionBad": "A este ritmo, ahorrarás un {percent}% menos que tu objetivo al final del mes.",
+  "@insightProjectionBad": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "insightCategoryAlert": "Este mes gastaste más en la categoría {category}.",
+  "@insightCategoryAlert": {
+    "placeholders": {
+      "category": {
+        "type": "String"
+      }
+    }
+  },
+  "insightStreak": "¡Genial! No has gastado nada durante {days} días.",
+  "@insightStreak": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  }
+}

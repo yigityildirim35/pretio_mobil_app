@@ -1,0 +1,26 @@
+{
+  "" : {
+    "const-values" : "/Users/sait/Desktop/micro_spend/ios/build/Pods.build/Release-iphoneos/printing.build/Objects-normal/arm64/printing-primary.swiftconstvalues",
+    "dependencies" : "/Users/sait/Desktop/micro_spend/ios/build/Pods.build/Release-iphoneos/printing.build/Objects-normal/arm64/printing-primary.d",
+    "diagnostics" : "/Users/sait/Desktop/micro_spend/ios/build/Pods.build/Release-iphoneos/printing.build/Objects-normal/arm64/printing-primary.dia",
+    "emit-module-dependencies" : "/Users/sait/Desktop/micro_spend/ios/build/Pods.build/Release-iphoneos/printing.build/Objects-normal/arm64/printing-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/sait/Desktop/micro_spend/ios/build/Pods.build/Release-iphoneos/printing.build/Objects-normal/arm64/printing-primary-emit-module.dia",
+    "pch" : "/Users/sait/Desktop/micro_spend/ios/build/Pods.build/Release-iphoneos/printing.build/Objects-normal/arm64/printing-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/sait/Desktop/micro_spend/ios/build/Pods.build/Release-iphoneos/printing.build/Objects-normal/arm64/printing-primary.swiftdeps"
+  },
+  "/Users/sait/.pub-cache/hosted/pub.dev/printing-5.14.3/ios/Classes/CustomPrintPaper.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/printing.build/Objects-normal/arm64/CustomPrintPaper.o",
+    "llvm-bc" : "/Users/sait/Desktop/micro_spend/ios/build/Pods.build/Release-iphoneos/printing.build/Objects-normal/arm64/CustomPrintPaper.bc",
+    "object" : "/Users/sait/Desktop/micro_spend/ios/build/Pods.build/Release-iphoneos/printing.build/Objects-normal/arm64/CustomPrintPaper.o"
+  },
+  "/Users/sait/.pub-cache/hosted/pub.dev/printing-5.14.3/ios/Classes/PrintJob.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/printing.build/Objects-normal/arm64/PrintJob.o",
+    "llvm-bc" : "/Users/sait/Desktop/micro_spend/ios/build/Pods.build/Release-iphoneos/printing.build/Objects-normal/arm64/PrintJob.bc",
+    "object" : "/Users/sait/Desktop/micro_spend/ios/build/Pods.build/Release-iphoneos/printing.build/Objects-normal/arm64/PrintJob.o"
+  },
+  "/Users/sait/.pub-cache/hosted/pub.dev/printing-5.14.3/ios/Classes/PrintingPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/printing.build/Objects-normal/arm64/PrintingPlugin-d719af55c8a69df69fe97a076f1d0aec.o",
+    "llvm-bc" : "/Users/sait/Desktop/micro_spend/ios/build/Pods.build/Release-iphoneos/printing.build/Objects-normal/arm64/PrintingPlugin-d719af55c8a69df69fe97a076f1d0aec.bc",
+    "object" : "/Users/sait/Desktop/micro_spend/ios/build/Pods.build/Release-iphoneos/printing.build/Objects-normal/arm64/PrintingPlugin-d719af55c8a69df69fe97a076f1d0aec.o"
+  }
+}

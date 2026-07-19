@@ -1,0 +1,52 @@
+Target dependency graph (21 targets)
+Target 'Pods-RunnerTests' in project 'Pods'
+➜ Explicit dependency on target 'Pods-Runner' in project 'Pods'
+Target 'Pods-Runner' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+➜ Explicit dependency on target 'TOCropViewController' in project 'Pods'
+➜ Explicit dependency on target 'connectivity_plus' in project 'Pods'
+➜ Explicit dependency on target 'flutter_local_notifications' in project 'Pods'
+➜ Explicit dependency on target 'flutter_native_splash' in project 'Pods'
+➜ Explicit dependency on target 'image_cropper' in project 'Pods'
+➜ Explicit dependency on target 'image_picker_ios' in project 'Pods'
+➜ Explicit dependency on target 'printing' in project 'Pods'
+➜ Explicit dependency on target 'share_plus' in project 'Pods'
+➜ Explicit dependency on target 'shared_preferences_foundation' in project 'Pods'
+➜ Explicit dependency on target 'sqflite_darwin' in project 'Pods'
+Target 'sqflite_darwin' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+➜ Explicit dependency on target 'sqflite_darwin-sqflite_darwin_privacy' in project 'Pods'
+Target 'sqflite_darwin-sqflite_darwin_privacy' in project 'Pods' (no dependencies)
+Target 'shared_preferences_foundation' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+➜ Explicit dependency on target 'shared_preferences_foundation-shared_preferences_foundation_privacy' in project 'Pods'
+Target 'shared_preferences_foundation-shared_preferences_foundation_privacy' in project 'Pods' (no dependencies)
+Target 'share_plus' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+➜ Explicit dependency on target 'share_plus-share_plus_privacy' in project 'Pods'
+Target 'share_plus-share_plus_privacy' in project 'Pods' (no dependencies)
+Target 'printing' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+Target 'image_picker_ios' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+➜ Explicit dependency on target 'image_picker_ios-image_picker_ios_privacy' in project 'Pods'
+Target 'image_picker_ios-image_picker_ios_privacy' in project 'Pods' (no dependencies)
+Target 'image_cropper' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+➜ Explicit dependency on target 'TOCropViewController' in project 'Pods'
+Target 'flutter_native_splash' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+➜ Explicit dependency on target 'flutter_native_splash-flutter_native_splash_privacy' in project 'Pods'
+Target 'flutter_native_splash-flutter_native_splash_privacy' in project 'Pods' (no dependencies)
+Target 'flutter_local_notifications' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+➜ Explicit dependency on target 'flutter_local_notifications-flutter_local_notifications_privacy' in project 'Pods'
+Target 'flutter_local_notifications-flutter_local_notifications_privacy' in project 'Pods' (no dependencies)
+Target 'connectivity_plus' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+➜ Explicit dependency on target 'connectivity_plus-connectivity_plus_privacy' in project 'Pods'
+Target 'connectivity_plus-connectivity_plus_privacy' in project 'Pods' (no dependencies)
+Target 'TOCropViewController' in project 'Pods'
+➜ Explicit dependency on target 'TOCropViewController-TOCropViewControllerBundle' in project 'Pods'
+Target 'TOCropViewController-TOCropViewControllerBundle' in project 'Pods' (no dependencies)
+Target 'Flutter' in project 'Pods' (no dependencies)

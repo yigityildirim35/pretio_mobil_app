@@ -1,0 +1,606 @@
+{
+  "@@locale": "tr",
+  "appTitle": "Zaman Maliyeti Hesaplayıcı",
+  "balance": "Bakiye",
+  "dashboard": "Panel",
+  "calendar": "Takvim",
+  "reports": "Raporlar",
+  "settings": "Ayarlar",
+  "theme": "Tema",
+  "language": "Dil",
+  "selectLanguage": "Dil Seçin",
+  "today": "Bugün",
+  "yesterday": "Dün",
+  "analytics": "Analiz",
+  "coach": "Asistan",
+  "shadow": "Gölge",
+  "time": "Zaman",
+  "profile": "Profil",
+  "setDailyGoal": "Günlük Hedef Belirle",
+  "addQuickAmount": "Hızlı Tutar Ekle",
+  "needs": "İhtiyaçlar",
+  "wants": "İstekler",
+  "total": "Toplam",
+  "currentStreak": "Mevcut Seri",
+  "longestStreak": "En Uzun Seri",
+  "cancel": "İptal",
+  "save": "Kaydet",
+  "add": "Ekle",
+  "delete": "Sil",
+  "editAmount": "Tutarı Düzenle {amount}",
+  "@editAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "double",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "deleteAmountConfirmation": "Bu hızlı tutarı silmek istiyor musunuz?",
+  "manage": "Yönet",
+  "done": "Bitti",
+  "addTransaction": "İşlem Ekle",
+  "whatDidYouBuy": "Ne satın aldın?",
+  "howDoYouFeel": "Bunun hakkında ne hissediyorsun?",
+  "isThisNeedOrWant": "Bu bir İhtiyaç, İstek veya Zorunluluk mu?",
+  "saveTransaction": "İşlemi Kaydet",
+  "recentActivity": "Son Hareketler",
+  "viewAll": "Tümünü Gör",
+  "noRecentActivity": "Henüz hareket yok",
+  "newCategory": "Yeni Kategori",
+  "categoryName": "Kategori Adı",
+  "selectIcon": "İkon Seç",
+  "selectColor": "Renk Seç",
+  "create": "Oluştur",
+  "shadowBudget": "Gölge Bütçe",
+  "item": "Ürün",
+  "price": "Fiyat",
+  "howDidItFeel": "Almamak nasıl hissettirdi?",
+  "proud": "Gururlu",
+  "relieved": "Rahatlamış",
+  "sad": "Üzgün",
+  "iDidntBuyIt": "Satın Almadım!",
+  "totalSaved": "Toplam Birikim: {amount}",
+  "@totalSaved": {
+    "placeholders": {
+      "amount": {
+        "type": "double",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "examples": "ÖRNEKLER",
+  "memberSince": "Üyelik yılı: {year}",
+  "@memberSince": {
+    "placeholders": {
+      "year": {
+        "type": "int"
+      }
+    }
+  },
+  "financialHealth": "Finansal Sağlık",
+  "excellent": "Mükemmel",
+  "personalInformation": "Kişisel Bilgiler",
+  "annualSalary": "Yıllık Maaş",
+  "weeklyHours": "Haftalık Saat",
+  "appPreferences": "Uygulama Tercihleri",
+  "notifications": "Bildirimler",
+  "darkMode": "Karanlık Mod",
+  "security": "Güvenlik",
+  "faceIdLogin": "FaceID ile Giriş",
+  "changePassword": "Şifre Değiştir",
+  "timeValue": "Zaman Değeri",
+  "yourProfileShared": "PROFİLİNİZ (Paylaşılan)",
+  "monthlySalary": "Aylık Maaş",
+  "recalculateRate": "Oranı Yeniden Hesapla",
+  "yourTimeIsWorth": "Zamanınızın değeri",
+  "tlPhr": "/sa",
+  "howMuchLife": "HAYATINIZDAN NE KADAR GİDİYOR?",
+  "trends": "Trendler",
+  "noTransactionsYet": "Henüz işlem yok.",
+  "good": "İyi",
+  "okay": "İdare Eder",
+  "regret": "Pişman",
+  "overBudget": "Bütçe Aşıldı",
+  "onTrack": "Yolunda",
+  "monthlyAvg": "AYLIK ORT.",
+  "day": "Gün",
+  "perDay": "/ gün",
+  "days": "{count} Gün",
+  "@days": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "financialCoach": "Finansal Koç",
+  "moodVsMoney": "Ruh Hali",
+  "needVsWant": "İstek/İhtiyaç",
+  "deleteCategoryTitle": "\"{category}\" kategorisini sil?",
+  "@deleteCategoryTitle": {
+    "placeholders": {
+      "category": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteCategoryContent": "Bu işlem kategoriyi sadece listenizden kaldırır. Mevcut işlemler bu kategori adını koruyacaktır.",
+  "remaining": "Kalan",
+  "goal": "HEDEF: {amount}",
+  "@goal": {
+    "placeholders": {
+      "amount": {
+        "type": "double",
+        "format": "decimalPattern"
+      }
+    }
+  },
+  "transactionHistory": "İşlem Geçmişi",
+  "currency": "Para Birimi",
+  "editTransactionTitle": "İşlemi Düzenle",
+  "titleLabel": "Başlık",
+  "amountLabel": "Tutar",
+  "favorite": "Favori",
+  "need": "İhtiyaç",
+  "want": "İstek",
+  "necessity": "Zorunluluk",
+  "spendingBalance": "Harcama Dengesi",
+  "emotionalImpact": "Duygusal Etki",
+  "budgetProgress": "Bütçe İlerlemesi",
+  "weeklyLimit": "Haftalık Limit",
+  "monthlyLimit": "Aylık Limit",
+  "underDailyGoal": "günlük hedefin altında",
+  "overDailyGoal": "günlük hedefin üzerinde",
+  "fancyLatte": "Lüks Latte",
+  "runningShoes": "Koşu Ayakkabısı",
+  "flagshipPhone": "Amiral Gemisi Telefon",
+  "sedanCar": "Sedan Araba",
+  "catFood": "Yemek",
+  "catTransport": "Ulaşım",
+  "catShopping": "Alışveriş",
+  "catFun": "Eğlence",
+  "catBills": "Faturalar",
+  "catOther": "Diğer",
+  "phone": "Telefon",
+  "undoTransactionQuestion": "Bu işlemi geri almak ister misiniz?",
+  "yes": "Evet",
+  "no": "Hayır",
+  "addNote": "Not Ekle",
+  "enterNote": "Notunuzu buraya girin...",
+  "budgetPlanner": "Bütçe Planlayıcı",
+  "pleaseEnterItemAndPrice": "Lütfen ürün ve fiyat girin",
+  "victorySaved": "Zafer Kaydedildi! 🎉",
+  "editGoal": "Hedefi Düzenle",
+  "goalName": "Hedef Adı",
+  "goalAmount": "Hedef Tutar",
+  "rateUpdated": "Oran Güncellendi! 🚀",
+  "coffeeShoesEta": "Kahve, Ayakkabı vb.",
+  "howMuchWasIt": "Fiyatı ne kadardı?",
+  "happy": "Mutlu",
+  "neutral": "Nötr",
+  "reclaimed": "KAZANILAN",
+  "workHours": "İş Saati",
+  "mountainOfSavings": "Birikim Dağı",
+  "levelX": "Seviye {level}",
+  "starting": "Başlangıç",
+  "totalPool": "Toplam Kasa",
+  "discretionarySpending": "Zorunluluk Dışı",
+  "leftToPeak": "Zirveye %{percent} kaldı",
+  "recentVictories": "Son Zaferler",
+  "noVictoriesYet": "Henüz bir zafer kaydedilmedi.",
+  "savedHours": "{hours} saat kurtarıldı",
+  "edit": "Düzenle",
+  "editVictory": "Zaferi Düzenle",
+  "minShort": "dk",
+  "hrShort": "sa",
+  "workDay": "iş günü",
+  "workShort": "çalışma",
+  "categories": "Kategoriler",
+  "weekly": "Haftalık",
+  "monthly": "Aylık",
+  "yearly": "Yıllık",
+  "goals": "Hedefler",
+  "noSpendToast": "Bugün harcama yapıldı!",
+  "noSpendTitle": "Harcama yapılmadı",
+  "noSpendNote": "Bugün hiç harcama yapılmadı",
+  "deletedData": "Silinen Veri",
+  "settingsAndPreferences": "AYARLAR VE TERCİHLER",
+  "account": "Hesap",
+  "profileNameLabel": "PROFİL İSMİ",
+  "avatarLabel": "AVATAR",
+  "personalizeCharacter": "Karakterini kişiselleştir",
+  "changeAvatar": "AVATAR DEĞİŞTİR",
+  "balanceAndFinance": "Bakiye ve Finans",
+  "balanceInfoLabel": "BAKİYE BİLGİSİ",
+  "currentBalance": "GÜNCEL: {amount}",
+  "@currentBalance": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyLabel": "PARA BİRİMİ",
+  "appearance": "Görünüm",
+  "languageSelectionLabel": "DİL SEÇİMİ",
+  "themesLabel": "TEMALAR",
+  "themeLight": "Açık",
+  "themeForest": "Orman Yeşili",
+  "themeCottonCandy": "Pamuk Şeker",
+  "themeSunset": "Günbatımı",
+  "themeProfileDark": "Gece Mavisi",
+  "themeAmoled": "Koyu",
+  "preferences": "Tercihler",
+  "hideSpentMoney": "HARCANAN PARAYI GİZLE",
+  "privacyMode": "Gizlilik modu",
+  "needWantModule": "İSTEK - İHTİYAÇ MODÜLÜ",
+  "showWhenAddingNew": "Yeni işlem eklerken göster",
+  "emotionModule": "RUH HALİ MODÜLÜ",
+  "view3D": "3D GÖRÜNÜM",
+  "addEmbossEffect": "Kartlara kabartma efekti ekle",
+  "reset": "Sıfırla",
+  "deleteAll": "HERŞEYİ SİL",
+  "deletePermanently": "Tüm verileri kalıcı olarak sil",
+  "buttonDelete": "SİL",
+  "about": "Hakkında",
+  "appPurpose": "UYGULAMA AMACI",
+  "whyAreWeHere": "Neden buradayız?",
+  "aboutApp": "UYGULAMA HAKKINDA",
+  "versionAndDetails": "Versiyon ve detaylar",
+  "creators": "YAPIMCILAR",
+  "whoDevelopedIt": "Kimler geliştirdi?",
+  "selectAvatar": "Avatar Seç",
+  "editPhoto": "Fotoğrafı Düzenle",
+  "statistics": "İstatistikler",
+  "highestStreak": "EN İYİ SERİ",
+  "totalSpending": "TOPLAM HARCAMA",
+  "currentStreakLabel": "GÜNCEL SERİ",
+  "financialIq": "Finansal IQ",
+  "percentNeed": "%{percent} İhtiyaç",
+  "@percentNeed": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "percentWant": "%{percent} İstek",
+  "@percentWant": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "percentObligation": "%{percent} Zorunluluk",
+  "@percentObligation": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "subscriptions": "Abonelikler",
+  "seeAll": "TÜMÜNÜ GÖR",
+  "noSubscriptionsYet": "Henüz abonelik eklemediniz.",
+  "badgesAndAchievements": "Rozetler & Başarılar",
+  "accountOperations": "Hesap İşlemleri",
+  "addIncome": "Gelir Ekle",
+  "unexpectedMoney": "Beklenmedik bir para mı geldi?",
+  "enterAmount": "Miktar girin",
+  "buttonAdd": "Ekle",
+  "editTotalBalance": "Toplam Bakiyeyi Düzenle",
+  "resetInitialBalance": "Başlangıç bakiyesini sıfırla",
+  "updateBalance": "Toplam Bakiyeyi Güncelle",
+  "buttonUpdate": "Güncelle",
+  "areYouSure": "Emin misiniz?",
+  "deleteWarning": "Tüm harcamalarınız, abonelikleriniz ve ayarlarınız kalıcı olarak silinecektir. Bu işlem geri alınamaz.",
+  "yesContinue": "Evet, Devam Et",
+  "finalConfirmation": "Son Onay",
+  "pressToClearData": "Verileri silmek için butona basın.",
+  "secondsRemaining": "{seconds} saniye...",
+  "@secondsRemaining": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "deleteNow": "ŞİMDİ SİL",
+  "waiting": "Bekleniyor...",
+  "insightsTitle": "Gelecek Öngörüleri",
+  "goalUnreachable": "Mevcut harcama hızınız tasarruf etmenizi engelliyor. Hedefinize ulaşılamıyor!",
+  "goalReachableDesc": "Mevcut harcama hızınızla, hedefinize yaklaşık {days} gün içinde ulaşacaksınız.",
+  "@goalReachableDesc": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "budgetEmptyWarning": "Uyarı: Bu harcama hızında bütçeniz {days} gün içinde tükenecek!",
+  "@budgetEmptyWarning": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "budgetSafe": "Mevcut harcama hızınızda bütçeniz güvende.",
+  "dailyAverageSavings": "Günlük Ortalama Birikim",
+  "accountActions": "Hesap İşlemleri",
+  "addIncomeDesc": "Beklenmedik bir para mı geldi?",
+  "noNoteAttached": "Not eklenmemiş",
+  "categoryDistribution": "Kategori Dağılımı",
+  "balanceSummary": "Bakiye Özeti",
+  "remainingBalanceText": "Kalan Bakiye",
+  "categoryBudgetShare": "Bütçe Payı: %{percentage}",
+  "@categoryBudgetShare": {
+    "placeholders": {
+      "percentage": {
+        "type": "String"
+      }
+    }
+  },
+  "spentAmount": "Harcanan",
+  "lastMonthPlus": "Geçen ay: +%{diff}",
+  "@lastMonthPlus": {
+    "placeholders": {
+      "diff": {
+        "type": "String"
+      }
+    }
+  },
+  "lastMonthMinus": "Geçen ay: %{diff}",
+  "@lastMonthMinus": {
+    "placeholders": {
+      "diff": {
+        "type": "String"
+      }
+    }
+  },
+  "sameAsLastMonth": "Geçen ay ile aynı",
+  "newData": "Yeni Veri",
+  "obligationWarning": "Bu zorunlu bir harcamadır. Günlük limitinizi etkilemedi, yalnızca kalan ana bakiyenizden düşüldü.",
+  "tapForDetails": "Detaylar için dokunun",
+  "transactionCount": "{count} İşlem",
+  "@transactionCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "noRecordsToday": "Bu gün için kayıt yok.",
+  "goalCurrentGoal": "Şu anki Hedef",
+  "goalTotalSavings": "Toplam Birikim (Kasadaki)",
+  "goalThisMonthTask": "Bu Ayki Görev (Korunan)",
+  "goalRemainingNet": "Kalan Hedef",
+  "goalIfProtected": "Bu Ay Korunursa",
+  "goalUpdateBtn": "Güncelle",
+  "goalAddBtn": "Ekle",
+  "goalBalanceAction": "Bakiye İşlemi",
+  "goalWithdrawMoney": "Para Çek",
+  "goalEnterAmountHint": "Miktar girin (örn. 500)",
+  "goalWithdrawBtn": "Çek",
+  "goalSpendingPower": "Harcama Gücü",
+  "goalDailyLimit": "Günlük Limit",
+  "goalOnTarget": "Günlük Hedefte",
+  "goalLimitExceeded": "Limit Aşıldı",
+  "goalEditPlan": "Finansal Planı Düzenle",
+  "goalDistributable": "Harcanabilir",
+  "goalMonthlyTarget": "Aylık Hedef",
+  "goalDaily": "Günlük",
+  "goalResetTitle": "Hedefi Sıfırla?",
+  "goalResetDesc": "Mevcut hedefinizi ve biriktirdiğiniz tüm tutarı sıfırlamak istediğinize emin misiniz? Bu işlem geri alınamaz.",
+  "goalCancelBtn": "İptal",
+  "goalResetSuccessMsg": "Hedef ve birikimler sıfırlandı.",
+  "goalResetBtn": "Sıfırla",
+  "goalUpdateGoalTitle": "Hedefi Güncelle",
+  "goalNameInputLabel": "Alınacak Şeyin Adı",
+  "goalTargetPrice": "Hedef Fiyat",
+  "goalSaveBtn": "Kaydet",
+  "goalUpdateGoalsTitle": "Hedefleri Güncelle",
+  "goalMonthlySavingsTarget": "Aylık Birikim Hedefi",
+  "shadowItemHint": "Örn: Kahve, kulaklık...",
+  "badgeKutsalSeriTitle": "Kutsal Seri",
+  "badgeKutsalSeriDesc": "Harcama yapmadığın kesintisiz gün sayısı.",
+  "badgeCuzdanBekcisiTitle": "Cüzdan Bekçisi",
+  "badgeCuzdanBekcisiDesc": "Hiç harcama yapılmayan toplam gün sayısı.",
+  "badgeDuyguDedektifiTitle": "Duygu Dedektifi",
+  "badgeDuyguDedektifiDesc": "Duygu durumu girilmiş toplam işlem sayısı.",
+  "badgeDuzenUzmaniTitle": "Denge Uzmanı",
+  "badgeDuzenUzmaniDesc": "İhtiyaç, istek veya zorunluluk olarak etiketlenmiş toplam işlem sayısı.",
+  "badgeVeriKurduTitle": "Veri Kurdu",
+  "badgeVeriKurduDesc": "Sisteme girilen toplam harcama işlemi sayısı.",
+  "badgeVazgecisUstasiTitle": "Vazgeçiş Ustası",
+  "badgeVazgecisUstasiDesc": "Almaktan vazgeçilip gölge bütçeye atılan işlem sayısı.",
+  "badgeGallery": "Rozet Galerisi",
+  "totalProgress": "Toplam İlerleme",
+  "totalLevels": "Toplam Seviye",
+  "maxShort": "MAX",
+  "levelShort": "LVL",
+  "streakBadge": "🔥 Seri Rozeti",
+  "cumulativeBadge": "📈 Birikimli Rozet",
+  "maxLevelReached": "MAKSİMUM SEVİYE ULAŞILDI!",
+  "subscriptionManagement": "Abonelik Yönetimi",
+  "monthlyTotalLabel": "Aylık Toplam",
+  "expenseDistribution": "Harcama Dağılımı",
+  "detailsButton": "Detaylar",
+  "mySubscriptions": "Aboneliklerim",
+  "onDate": "{date} tarihinde",
+  "@onDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "addNewSubscription": "Yeni Abonelik Ekle",
+  "noSubscriptionsAdded": "Henüz abonelik eklemediniz.",
+  "nextLevelTarget": "Bir sonraki seviye için kalan hedef:\n{count} adet daha yapmanız gerekiyor.",
+  "@nextLevelTarget": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "progressLabel": "{current} / {total} ilerleme",
+  "@progressLabel": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "monthlyReport": "Aylık Rapor",
+  "totalSpent": "TOPLAM HARCANAN",
+  "comparedToLastMonth": "Geçen aya göre %{percentage} daha {trend}",
+  "@comparedToLastMonth": {
+    "placeholders": {
+      "percentage": {
+        "type": "String"
+      },
+      "trend": {
+        "type": "String"
+      }
+    }
+  },
+  "trendLess": "az",
+  "trendMore": "fazla",
+  "subscriptionDistribution": "Abonelik Dağılımı",
+  "upcomingPayments": "Yaklaşan Ödemeler",
+  "noUpcomingPayments": "Yaklaşan ödeme bulunmuyor.",
+  "nextPaymentInDays": "SIRADAKİ • {days} GÜN KALDI",
+  "@nextPaymentInDays": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "unknown": "Bilinmiyor",
+  "daysRemainingText": "{days} gün kaldı",
+  "@daysRemainingText": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "editSubscription": "Aboneliği Düzenle",
+  "newSubscription": "Yeni Abonelik",
+  "serviceIconLabel": "SERVİS SİMGESİ",
+  "serviceNameLabel": "SERVİS ADI",
+  "serviceNameHint": "Örn: Netflix, Spotify...",
+  "monthlyFeeLabel": "AYLIK ÜCRET",
+  "paymentCycleLabel": "ÖDEME DÖNGÜSÜ",
+  "wantNeedLabel": "İSTEK / İHTİYAÇ",
+  "needItem": "İhtiyaç",
+  "wantItem": "İstek",
+  "necessityItem": "Zorunluluk",
+  "moodLabel": "RUH HALİ",
+  "happyItem": "Mutlu",
+  "neutralItem": "Nötr",
+  "regretItem": "Pişman",
+  "nextPaymentDateLabel": "SIRADAKİ ÖDEME TARİHİ",
+  "dateHint": "gg.aa.yyyy",
+  "unnamed": "İsimsiz",
+  "notSpecified": "Belirtilmedi",
+  "saveChanges": "DEĞİŞİKLİKLERİ KAYDET",
+  "saveSubscription": "ABONELİĞİ KAYDET",
+  "deleteSubscription": "ABONELİĞİ SİL",
+  "editMyIcon": "Simgemi Düzenle",
+  "customIcon": "Özel Simge",
+  "selectIconTitle": "Simge Seç",
+  "uploadIcon": "İCON YÜKLE",
+  "popularCategory": "Popüler",
+  "financeCategory": "Finans",
+  "educationCategory": "Eğitim",
+  "entertainmentCategory": "Eğlence",
+  "bankWord": "Banka",
+  "insuranceWord": "Sigorta",
+  "creditCardWord": "Kredi Kartı",
+  "creditWord": "Kredi",
+  "schoolWord": "Okul",
+  "bookMagazineWord": "Kitap/Dergi",
+  "personalDevWord": "Kişisel Gelişim",
+  "courseWord": "Kurs",
+  "gameWord": "Oyun",
+  "cinemaSeriesWord": "Sinema/Dizi",
+  "musicWord": "Müzik",
+  "eventActivityWord": "Etkinlik",
+  "totalUppercase": "TOPLAM",
+  "spendingsTab": "Harcamalar",
+  "otherCategory": "Diğer",
+  "autoRenewal": "Otomatik Yenileme",
+  "appPurposeHeroTitle": "Bilinçli Harcama,\nÖzgür Gelecek.",
+  "appPurposeHeroDesc": "Pretio, harcamalarınızı birer rakam olmaktan çıkarıp hayatınızdaki gerçek etkisini size göstermek ve anlık dürtülerin yerini, sizi hayallerinize ulaştıracak bilinçli kararların almasını sağlamaktır.",
+  "feature1Title": "Hızlı ve Pratik Kayıt",
+  "feature1Desc": "Harcamalarınızı aninda ve zahmetsizce kaydedin. Sıkıcı formlar yerine saniyeler içinde işleminizi ekleyerek finansal takibi keyifli bir günlük alışkanlığa dönüştürün.",
+  "feature2Title": "Duygusal Finans Pusulası",
+  "feature2Desc": "Her harcamanın arkasındaki psikolojiyi keşfedin. Gerçek bir ihtiyaç mı, anlık bir dürtü mü? Tüketim psikolojinizi haritalandırarak paranızı sadece size değer katan şeylere ayırın.",
+  "feature3Title": "Hayallerinize Odaklanın",
+  "feature3Desc": "Sadece bugünü değil, geleceği planlayın. Hayalini kurduğunuz hedefe ne kadar yaklaştığınızı net bir şekilde görün ve birikimlerinizi doğrudan hedefinize yönlendirin.",
+  "feature4Title": "Detaylı Analiz ve Alışkanlık Takibi",
+  "feature4Desc": "Paranızın nereye gittiğini şeffaf bir şekilde görün. Harcama eğilimlerinizi ve duygu durumlarınıza göre dağılımı şık grafiklerle detaylıca inceleyerek tüketim alışkanlıklarınızı keşfedin.",
+  "feature5Title": "Tamamen Kişiselleştirilebilir",
+  "feature5Desc": "Finansal asistanınızı kendi hayat tarzınıza göre şekillendirin. Kendi kategorilerinizi oluşturun, hızlı giriş tutarlarınızı belirleyin ve size özel rozetlerle başarılarınızı kutlayın.",
+  "aboutHeroDesc": "Pretio, sıradan bir bütçe takip aracı değil; zamanınızın, paranızın ve duygularınızın kontrolünü size geri veren kişisel bir yaşam felsefesidir. Tüketim çılgınlığının ortasında, size kendi iradenizi hatırlatmak ve hayallerinize giden yolu aydınlatmak için tasarlandı.",
+  "aboutSection1Title": "İsminin Anlamı",
+  "aboutSection1Desc": "Pretio, kökenini Latince \"değer\", \"kıymet\" ve \"bedel\" anlamlarına gelen pretium kelimesinden alır. Hayatta satın aldığımız her şeyin sadece cüzdanımızdan çıkan bir fiyatı değil; zamanımızdan ve duygularımızdan ödediğimiz gerçek bir bedeli var. Pretio, size bu gerçek değeri göstermek için var.",
+  "aboutSection2Title": "Sadeliği",
+  "aboutSection2Desc": "Sizi karmaşık finansal tablolar, kafa karıştırıcı menüler ve yorucu grafiklerle boğmaz. Gözü yormayan, minimalist tasarımıyla finansal takibi bir stres kaynağı olmaktan çıkarıp huzurlu bir günlük rutine dönüştürür.",
+  "aboutSection3Title": "Farkındalığı",
+  "aboutSection3Desc": "Sadece ne harcadığınızı değil, neden harcadığınızı gösterir. Satın aldığınız eşyanın gerçek bir ihtiyaç mı yoksa anlık bir heves mi olduğunu anlamanızı sağlayarak tüketim psikolojinizi aydınlatır.",
+  "aboutSection4Title": "Pratikliği",
+  "aboutSection4Desc": "Günlük hayatın hızına mükemmel ayak uydurur. Uzun ve sıkıcı formlar doldurmadan saniyeler içinde harcama girebilir, bütçenizi tek dokunuşla güncelleyebilir ve finansal durumunuzu bir bakışta özetleyebilirsiniz.",
+  "aboutSection5Title": "Kişiselleştirilebilirliği",
+  "aboutSection5Desc": "Herkesin yaşam tarzı ve finansal yolculuğu kendine özgüdür. Pretio'yu kendi harcama kategorilerinizi oluşturarak, size özel hedefler belirleyerek ve hızlı işlem tutarlarınızı ayarlayarak tamamen kendi alışkanlıklarınıza göre şekillendirebilirsiniz.",
+  "aboutFooterNote": "Bu uygulama, tüketim çılgınlığına karşı kendi iradenizi korumanız için bağımsız bir grup geliştirici tarafından hayata geçirildi.",
+  "developersTitle": "Geliştiricilerimiz",
+  "averageSoFar": "Bugüne kadar ortalama",
+  "all": "Tümü",
+  "favorites": "Favoriler",
+  "currentNetBalance": "Net Güncel Bakiye",
+  "makeTransaction": "İşlem Yap",
+  "expense": "Gider",
+  "income": "Gelir",
+  "insightProjectionGood": "Bu hızla harcarsanız ay sonunda hedefinizden %{percent} daha fazla birikim yapacaksınız.",
+  "@insightProjectionGood": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "insightProjectionBad": "Bu hızla harcarsanız ay sonunda hedefinizden %{percent} daha az birikim yapacaksınız.",
+  "@insightProjectionBad": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "insightCategoryAlert": "Bu ay en çok {category} kategorisinde harcama yaptınız.",
+  "@insightCategoryAlert": {
+    "placeholders": {
+      "category": {
+        "type": "String"
+      }
+    }
+  },
+  "insightStreak": "Harika! {days} gündür hiç harcama yapmadınız.",
+  "@insightStreak": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  }
+}
