@@ -4,183 +4,59 @@ Pretio, harcamalarınızın yalnızca parasal tutarını değil, **"Zaman Maliye
 
 **Slogan:** *"Zamanının gerçek değerini hesapla."*
 > 📱 Uygulamanın ekran görüntülerini README'nin sonunda inceleyebilirsiniz.
----
-
-# 🚀 Öne Çıkan Özellikler
-
-### ⏳ Zaman Maliyeti (Time Cost)
-
-Pretio'nun en dikkat çekici özelliği, yapılan harcamaları yalnızca para olarak değil **çalışma süresi** olarak da değerlendirmesidir.
-
-Kullanıcı;
-
-- Aylık maaşını
-- Haftalık çalışma saatini
-
-girerek;
-
-- Saatlik kazancını,
-- Dakikalık kazancını,
-
-hesaplayabilir.
-
-Ardından yapılan her harcama için;
-
-> **"Bu harcama için kaç dakika/saat çalışmanız gerekiyor?"**
-
-sorusunun cevabı otomatik olarak hesaplanır.
 
 ---
 
-### 🎯 Akıllı Hedef Takibi
+# 💡 Projenin Amacı
 
-Kullanıcılar finansal hedeflerini belirleyebilir ve ilerlemelerini anlık olarak takip edebilir.
+Pretio'nun amacı yalnızca gelir ve giderleri kayıt altına almak değildir.
 
-- Hedef oluşturma
-- Hedef ilerleme yüzdesi
-- Kalan hedef tutarı
+Uygulama;
+
+- Finansal farkındalık oluşturmayı,
+- Tasarruf alışkanlığı kazandırmayı,
+- Harcamaların zaman karşılığını göstermeyi,
+- Gereksiz harcamaları azaltmayı,
+- Düzenli ödemeleri yönetmeyi,
+- Oyunlaştırılmış yapıyla kullanıcı motivasyonunu artırmayı,
+- Kişisel finans yönetimini daha bilinçli hâle getirmeyi amaçlamaktadır.
+
+---
+## 🚀 Özellikler
+
+### ⏳ Zaman Maliyeti
+Maaş ve çalışma saatlerine göre harcamaların **kaç dakika/saatlik emeğe** denk geldiğini hesaplar.
+
+### 🎯 Akıllı Hedefler
+- Finansal hedef oluşturma
+- İlerleme ve kalan tutar takibi
 - Günlük harcama limiti
 - Tahmini aylık birikim
-- Budget Ring (Bütçe Halkası) ile görsel ilerleme takibi
-
----
 
 ### 💰 Harcama Takibi
-
-Harcamalar ayrıntılı bilgilerle kaydedilebilir.
-
-- Harcama adı
-- Tutar
-- Kategori
-- Tarih
+- Tutar, kategori ve tarih
 - Ruh hali
-- İstek / İhtiyaç etiketi
-- Düzenleme ve silme işlemleri
+- İstek / ihtiyaç sınıflandırması
+- Düzenleme ve silme
 
----
-
-### 📊 Gelişmiş Harcama Analizi
-
-Harcama alışkanlıklarını analiz ederek kullanıcıya finansal farkındalık kazandırır.
-
-- Günlük ortalama harcama
-- Aylık analizler
-- Kategori bazlı harcamalar
-- Günlük limit karşılaştırması
-- Hedef performansı
-- İnteraktif grafikler (`fl_chart`)
-
----
-
-### 📅 Takvim Görünümü
-
-Takvim ekranı sayesinde kullanıcı günlük bütçe performansını kolayca takip edebilir.
-
-- Gün bazlı harcamalar
-- Aylar arasında geçiş
-- Limit durumuna göre renkli gösterimler
-
-🟢 Limit altında
-
-🟠 Limite yakın
-
-🔴 Limit aşıldı
-
----
+### 📊 Finansal Analiz
+- Günlük ve aylık harcama analizi
+- Kategori bazlı grafikler
+- Limit ve hedef performansı
+- Takvim görünümü
 
 ### 💳 Abonelik Yönetimi
+Abonelik ücretleri, ödeme tarihleri ve **toplam aylık abonelik maliyeti** takip edilir.
 
-Düzenli ödemelerinizi tek ekrandan yönetin.
+### 😊 Duygu Analizi
+Ruh hali ve istek/ihtiyaç verileri üzerinden **tüketim alışkanlıkları** analiz edilir.
 
-- Servis adı
-- Servis ikonu
-- Aylık ücret
-- Ödeme tarihi
-- Ödeme döngüsü
-- Sonraki ödeme tarihi
-- Ruh hali
-- İstek / İhtiyaç etiketi
-- Toplam aylık abonelik maliyeti
+### 🏆 Gamification
+Finansal alışkanlıklar için **rozetler, güncel seri ve en iyi seri** sistemi bulunur.
 
+### 👤 Profil & Kişiselleştirme
+Finansal istatistikler, tema seçenekleri ve kullanıcı tercihleri yönetilebilir.
 ---
-
-### 😊 Duygu & İhtiyaç Analizi
-
-Her harcamaya psikolojik bilgiler eklenebilir.
-
-- Ruh hali kaydı
-- İstek / İhtiyaç sınıflandırması
-- Harcama davranışlarının analizi
-- Duygu bazlı tüketim alışkanlıkları
-
----
-
-### 🏆 Rozet Galerisi (Gamification)
-
-Finansal hedeflere ulaştıkça başarı rozetleri kazanılır.
-
-Örnek rozetler:
-
-- 🔥 Kutsal Seri
-- 🛡️ Cüzdan Bekçisi
-- 🧠 Duygu Dedektifi
-- ⚖️ Denge Uzmanı
-- 📈 Veri Kurdu
-
-Ayrıca;
-
-- Rozet ilerleme sistemi
-- Güncel seri
-- En iyi seri
-- Başarı takibi
-
-özellikleri sunulmaktadır.
-
----
-
-### 👤 Profil ve İstatistikler
-
-Profil ekranında kullanıcıya ait finansal istatistikler görüntülenebilir.
-
-- Profil fotoğrafı
-- Güncel seri
-- En iyi seri
-- Toplam harcama
-- İstek yüzdesi
-- Aktif abonelikler
-- Rozet ilerleme durumu
-
----
-
-### 🎨 Tema ve Kişiselleştirme
-
-Pretio farklı görünüm seçenekleri sunar.
-
-Desteklenen temalar;
-
-- 🌞 Açık
-- 🌙 Koyu
-- 🌲 Orman Yeşili
-- 🌅 Günbatımı
-- 🌌 Gece Mavisi
-- 🍭 Pamuk Şeker
-
----
-
-### ⚙️ Ayarlar
-
-Kullanıcı uygulamayı kendi tercihlerine göre özelleştirebilir.
-
-- Tema değiştirme
-- Dil seçimi
-- Harcanan tutarı gizleme
-- Ruh Hali modülünü açma/kapatma
-- İstek / İhtiyaç modülünü açma/kapatma
-- 3D kart efektini açma/kapatma
-- Verileri sıfırlama
-
----
-
 # 🛠️ Kullanılan Teknolojiler
 
 - **Framework:** Flutter
@@ -193,26 +69,6 @@ Kullanıcı uygulamayı kendi tercihlerine göre özelleştirebilir.
 - **PDF Export:** pdf & printing
 - **Excel Export:** Syncfusion Flutter XlsIO
 - **UI:** Material Design 3
-
----
-
-# 📂 Proje Yapısı
-
-```text
-lib/
-├── core/
-├── data/
-├── domain/
-├── features/
-├── l10n/
-├── models/
-├── providers/
-├── screens/
-├── services/
-├── utils/
-├── widgets/
-└── main.dart
-```
 
 ---
 
@@ -238,44 +94,8 @@ flutter run
 
 ---
 
-# 💡 Projenin Amacı
-
-Pretio'nun amacı yalnızca gelir ve giderleri kayıt altına almak değildir.
-
-Uygulama;
-
-- Finansal farkındalık oluşturmayı,
-- Tasarruf alışkanlığı kazandırmayı,
-- Harcamaların zaman karşılığını göstermeyi,
-- Gereksiz harcamaları azaltmayı,
-- Düzenli ödemeleri yönetmeyi,
-- Oyunlaştırılmış yapıyla kullanıcı motivasyonunu artırmayı,
-- Kişisel finans yönetimini daha bilinçli hâle getirmeyi amaçlamaktadır.
-
----
-
-# 🌟 Öne Çıkan Özellikler
-
-- ✅ Time Cost (Zaman Maliyeti) Hesaplama
-- ✅ Akıllı Hedef Takibi
-- ✅ Günlük Harcama Limiti
-- ✅ Tahmini Aylık Birikim
-- ✅ Budget Ring
-- ✅ Harcama Analizi
-- ✅ İnteraktif Grafikler
-- ✅ Takvim Görünümü
-- ✅ Abonelik Yönetimi
-- ✅ Duygu & İhtiyaç Analizi
-- ✅ Rozet ve Başarı Sistemi
-- ✅ Profil ve İstatistikler
-- ✅ Çoklu Tema Desteği
-- ✅ Çoklu Dil Desteği
-- ✅ PDF & Excel Dışa Aktarma
-
----
-
 # 👨‍💻 Geliştiriciler: 
-@yigityildirim35, @gizembg1m, 
+@yigityildirim35, @gizembg1m
 ---
 Pretio, **Flutter** kullanılarak geliştirilen modern bir kişisel finans yönetimi uygulamasıdır. Proje; kullanıcı deneyimi (UX/UI), finansal farkındalık, oyunlaştırma (Gamification) ve **Time Cost** yaklaşımını bir araya getirerek kullanıcıların harcamalarını daha bilinçli yönetmelerini amaçlamaktadır.
 
