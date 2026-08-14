@@ -56,7 +56,8 @@ Finansal alışkanlıklar için **rozetler, güncel seri ve en iyi seri** sistem
 
 ### 👤 Profil & Kişiselleştirme
 Finansal istatistikler, tema seçenekleri ve kullanıcı tercihleri yönetilebilir.
----
+
+--- 
 # 🛠️ Kullanılan Teknolojiler
 
 - **Framework:** Flutter
@@ -95,7 +96,7 @@ flutter run
 ---
 
 # 👨‍💻 Geliştiriciler: 
-@yigityildirim35, @gizembg1m
+@yigityildirim35, @gizembg1m...
 ---
 Pretio, **Flutter** kullanılarak geliştirilen modern bir kişisel finans yönetimi uygulamasıdır. Proje; kullanıcı deneyimi (UX/UI), finansal farkındalık, oyunlaştırma (Gamification) ve **Time Cost** yaklaşımını bir araya getirerek kullanıcıların harcamalarını daha bilinçli yönetmelerini amaçlamaktadır.
 
