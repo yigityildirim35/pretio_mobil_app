@@ -5,6 +5,7 @@ Pretio, harcamalarınızın yalnızca parasal tutarını değil, **"Zaman Maliye
 **Slogan:** *"Zamanının gerçek değerini hesapla."*
 > 📱 Uygulamanın ekran görüntülerini README'nin sonunda inceleyebilirsiniz.
 
+Proje Videosu: https://www.youtube.com/watch?v=PfbBE2Z1aS0
 ---
 
 # 💡 Projenin Amacı
